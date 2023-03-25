@@ -1,0 +1,23 @@
+.sobreHeader {
+    background: white;
+    height: 75px;
+    border-radius: 0 0 15px 15px;
+    position: relative; 
+}
+
+.nav__headerNombreCalculos--Header {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute; 
+    bottom: 0; 
+    width: 100%; 
+}
+
+a {
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(80, 80, 80);
+    font-size: 1.3rem;
+}
